@@ -1,0 +1,28 @@
+name: OPTIMISEGLOBALPARTNERS.COM
+favicon: null
+layout_spectrum: 0.31793712987564504
+typography_spectrum: 0.7648705523461103
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4130724994465709
+  lightness: 0.2537779682315886
+  saturation: 0.23467940581031144
+  rhythmicContrast: 0.10279615130275488
+purpose: []
