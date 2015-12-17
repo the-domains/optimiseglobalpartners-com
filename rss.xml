@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[OPTIMISEGLOBALPARTNERS.COM]]></title>
         <description><![CDATA[OPTIMISEGLOBALPARTNERS.COM]]></description>
-        <link>https://thegrid.ai/optimiseglobalpartners-com/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 19:55:01 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/optimiseglobalpartners-com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[what were about]]></title>
-            <description><![CDATA[<article><h1>what were about</h1><p>Optimise Global Partners is a group of global investors who have come together to share their extensive resources,experience and knowledge amongst one another.We believe in partnering with companies of all sizes with Big Ideas.Looking to make a difference in how we experience and live our daily lives.Investors with a heart, who have been where you have been.Who are willing to not only invest their money but their most valuable asset their time.</p></article>]]></description>
-            <link>https://thegrid.ai/optimiseglobalpartners-com/what-were-about/index.html</link>
-            <guid isPermaLink="false">9296e4ac-6aa4-4ad5-8383-eb6d5208d79d</guid>
-            <pubDate>Thu, 17 Dec 2015 19:53:36 GMT</pubDate>
-        </item>
+        <lastBuildDate>Thu, 17 Dec 2015 19:54:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/optimiseglobalpartners-com/getting-started-on-the-grid/index.html</link>
+            <link>undefinedgetting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">699327b2-3717-4f4d-bbb4-fcc06cbdbc98</guid>
             <pubDate>Thu, 17 Dec 2015 19:53:36 GMT</pubDate>
         </item>
