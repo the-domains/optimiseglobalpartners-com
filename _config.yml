@@ -1,6 +1,6 @@
 name: OPTIMISEGLOBALPARTNERS.COM
 favicon: null
-layout_spectrum: 0.78715
+layout_spectrum: 0
 typography_spectrum: 0.69366
 title: OPTIMISE GLOBAL PARTNERS
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#bac7d1'
-    - '#0b1856'
-    - '#475661'
-    - '#e5e5e5'
-    - '#8991ac'
+    - '#ffe9c7'
+    - '#2d182b'
+    - '#dcaf8e'
+    - '#707ea1'
+    - '#475481'
   brandStrength: 0.1875
   lightness: 0.5
   saturation: 0.875
